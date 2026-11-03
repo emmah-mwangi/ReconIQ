@@ -1,0 +1,1 @@
+-- Initial database schema will be added after the data model is finalised.
